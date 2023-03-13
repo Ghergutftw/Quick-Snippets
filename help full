@@ -1,0 +1,2 @@
+Getting the target value of an input
+this.serverCreationStatus = (<HTMLInputElement>event.target).value;
